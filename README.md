@@ -13,7 +13,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/joão-pedro-resende-silva-238ab7227/" src="[https://i.imgur.com/OXZM1L6.png](https://imgur.com/4HgAowJ)" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/joão-pedro-resende-silva-238ab7227/" src="https://i.imgur.com/OXZM1L6.png" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
