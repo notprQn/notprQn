@@ -31,7 +31,6 @@
     <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
     <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-    <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
 </p>
 <br>
     <br>
