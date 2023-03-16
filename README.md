@@ -60,14 +60,14 @@
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="notprQn's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=notprQn&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   <h3>⚡ Recent GitHub Activity</h3>
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#473](https://github.com/DenverCoder1/github-readme-streak-stats/pull/473) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+1. 🎉 Merged PR [#473](https://github.com/DenverCoder1/github-readme-streak-stats/pull/473) in [notprQn/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 2. 🎉 Merged PR [#749](https://github.com/DenverCoder1/custom-icon-badges/pull/749) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 3. 🎉 Merged PR [#752](https://github.com/DenverCoder1/custom-icon-badges/pull/752) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
 4. 🎉 Merged PR [#751](https://github.com/DenverCoder1/custom-icon-badges/pull/751) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
