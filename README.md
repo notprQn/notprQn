@@ -13,7 +13,7 @@
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/joão-pedro-resende-silva-238ab7227/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"" alt="https://www.linkedin.com/in/joão-pedro-resende-silva-238ab7227/" height="32" width="32"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">👨‍💻 Linguagens e Tools:</h3>
 <p align="left"> 
     <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
     <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />     
