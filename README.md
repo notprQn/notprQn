@@ -1,5 +1,5 @@
 <h1 align="center">João Pedro Resende Silva </h1>
-<p>[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Júnior+em:;Python;C#;Node.js;Java)](https://git.io/typing-svg)</p>
+<img>[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Júnior+em:;Python;C#;Node.js;Java)](https://git.io/typing-svg)
 <p align="center"> Meu nome é João Pedro Resende Silva, tenho 19 anos e estou procurando um trabalho na área de programação. </p>
 
 <h3 align="left">PLataformas: </h3>
