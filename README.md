@@ -8,7 +8,7 @@
 
 
 <p align="center"> Meu nome é João Pedro Resende Silva, tenho 19 anos e estou procurando um trabalho na área de programação. </p>
-<p>
+<p align="center">
   <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
