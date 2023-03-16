@@ -9,16 +9,13 @@
 
 <p align="center"> Meu nome é João Pedro Resende Silva, tenho 19 anos e estou procurando um trabalho na área de programação. </p>
 <p align="center">
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/notprQn"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="=https://discord.com/users/887772168119808070" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/joão-pedro-resende-silva-238ab7227/" src="https://i.imgur.com/OXZM1L6.png" /></a>
 </p>
 
-<h3 align="left">PLataformas: </h3>
-<p align="left">
-<a href="https://twitter.com/notprq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="notprq" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/joão-pedro-resende-silva-238ab7227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joão-pedro-resende-silva-238ab7227/" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
