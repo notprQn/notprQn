@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://twitter.com/notprQn"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="=https://discord.com/users/396054977291878400" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="=[https://discord.com/users/396054977291878400](https://discord.com/users/396054977291878400)" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/joão-pedro-resende-silva-238ab7227/" src="https://i.imgur.com/OXZM1L6.png" /></a>
 </p>
