@@ -15,7 +15,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" />
     <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
     <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />     
     <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
