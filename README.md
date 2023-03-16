@@ -10,10 +10,7 @@
 <p align="center"> Meu nome é João Pedro Resende Silva, tenho 19 anos e estou procurando um trabalho na área de programação. </p>
 <p align="center">
   <a href="https://twitter.com/notprQn"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
+  &#8287;&#8287;&#8287;&#8287;&#8287;        
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/joão-pedro-resende-silva-238ab7227/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joão-pedro-resende-silva-238ab7227/" height="32" width="32"/></a>
 </p>
 
