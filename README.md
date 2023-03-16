@@ -1,6 +1,6 @@
 <h1 align="center">Olá </h1>
 <h3 align="center">Graduando em Ciência da Computação | Procurando vaga Júnior ou Estágio | Python, Node.js, C# | Graduação 2025</h3>
-<h1> Meu nome é João Pedro Resende Silva, tenho 19 anos e estou procurando um trabalho na área de programação. </h1>
+<h1 align="center"> Meu nome é João Pedro Resende Silva, tenho 19 anos e estou procurando um trabalho na área de programação. </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notprqn&label=Profile%20views&color=0e75b6&style=plastic" alt="notprqn" /> </p>
 
