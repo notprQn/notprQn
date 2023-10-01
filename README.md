@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://twitter.com/notprQn"><img width="40px" padding-right="10px" alt="Twitter" title="Twitter" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/joão-pedro-resende-silva/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"" alt="https://www.linkedin.com/in/joão-pedro-resende-silva/" height="40" width="40"/></a>
+  <a href="https://www.linkedin.com/in/joão-pedro-resende-silva/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"" alt="https://www.linkedin.com/in/joão-pedro-resende-silva/" height="35" width="35"/></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=notprqn&label=Profile%20views&color=0e75b6&style=flat" alt="notprqn" /> </p>
 <h2></h2>
