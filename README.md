@@ -18,7 +18,7 @@
 
 
 - 🌱 Estou estudando **Cypress, JavaScript, Python.**
-- 👨‍💻 Link do Portifólio: [notprQn.github.io](notprQn.github.io)
+- 👨‍💻 Link do Portifólio: notprQn.github.io
 - 📫 Para mandar mensagens: **joaopedro.resende04@gmail.com**
 <h2></h2>
 
