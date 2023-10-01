@@ -1,5 +1,5 @@
 <h1 align="center"> João Pedro Resende Silva</h1>
-![Snake animation](https://github.com/notprqn/notprqn/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a>
@@ -144,4 +144,6 @@
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 </details>
+
+![Snake animation](https://github.com/notprqn/notprqn/blob/output/github-contribution-grid-snake.svg)
 
