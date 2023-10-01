@@ -8,7 +8,7 @@
 </p>
 
 
-<p align="center" padding-right="10px"> Meu nome é João Pedro Resende Silva, tenho 19 anos e estou procurando um trabalho na área de programação. </p>
+<p align="center" padding-right="10px"> Sou João Pedro Resende Silva, um entusiasta da programação de 19 anos. Apaixonado por resolver problemas e criar soluções inovadoras, busco oportunidades desafiadoras para aprimorar minhas habilidades e contribuir para projetos empolgantes no mundo da tecnologia. </p>
 <p align="center">
   <a href="https://twitter.com/notprQn"><img width="30px" padding-right="10px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
