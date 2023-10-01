@@ -17,6 +17,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=notprqn&label=Profile%20views&color=0e75b6&style=flat" alt="notprqn" /> </p>
 
 - 🌱 I’m currently learning **Cypress, JavaScript, Python.**
+- - 👨‍💻 All of my projects are available at [notprQn.github.io](notprQn.github.io)
+- 📫 How to reach me **joaopedro.resende04@gmail.com**
 
 <h3 align="left">👨‍💻 Linguagens e Tools:</h3>
 <p align="left"> 
