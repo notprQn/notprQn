@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm João Pedro Resende Silva</h1>
+<h1 align="center"> João Pedro Resende Silva</h1>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
