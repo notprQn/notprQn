@@ -52,7 +52,7 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=Site-Gamer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/notprQn/Site-Gamer)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=App-Facu&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/notprQn/App-Facu)
 
-  <a href="https://github.com/notprQn?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/Ver%todos%os%20repositorios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/notprQn?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/Ver%20todos%20os%20repositorios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 <details>   
