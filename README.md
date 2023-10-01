@@ -43,7 +43,7 @@
 <br>
 <br>
   
-[![Readme Card](https://github.com/notprQn/notprQn.github.io)](https://github.com/notprQn/notprQn.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=notprQn.github.io)](https://github.com/notprQn/notprQn.github.io)
 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
