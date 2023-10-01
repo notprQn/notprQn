@@ -3,7 +3,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a>
-    <img src="https://readme-typing-svg.demolab.com/?lines=Developer%20Júnior;Experiências%20com:;Python,%20CSharp,%20Java,%20Node.JS;Sempre%20aprendendo%20coisas%20novas.&font=Fira%20Code&center=true&width=455&height=45&color=FFFCenter=false&pause=300&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Developer%20Júnior;Experiências%20com:;Python,%20CSharp,%20Java,%20Node.JS;Sempre%20aprendendo%20coisas%20novas.&font=Fira%20Code&center=true&width=455&height=45&color=FFFFFFCenter=false&pause=300&size=22" /></a>
 </p>
 
 <p align="center">Sou João Pedro Resende Silva, um entusiasta da programação de 20 anos. Apaixonado por resolver problemas e criar soluções inovadoras, busco oportunidades desafiadoras para aprimorar minhas habilidades e contribuir para projetos empolgantes no mundo da tecnologia.</p>
