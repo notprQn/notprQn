@@ -38,8 +38,6 @@
     <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </p>
 <br>
-<br>
-<br>
 
 <details> 
   <summary><h2>🛠️ Outros</h2></summary>
