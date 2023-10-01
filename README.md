@@ -12,8 +12,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notprqn" alt="notprqn" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/notprqn" target="blank"><img src="https://img.shields.io/twitter/follow/notprqn?logo=twitter&style=for-the-badge" alt="notprqn" /></a> </p>
-
 - 🌱 I’m currently learning **Cypress, JavaScript, Python.**
 
 <h3 align="left">Connect with me:</h3>
