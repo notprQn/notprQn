@@ -13,7 +13,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/joão-pedro-resende-silva/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"" alt="https://www.linkedin.com/in/joão-pedro-resende-silva/" height="35" width="35"/></a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=notprqn&label=Profile%20views&color=0e75b6&style=flat" alt="notprqn" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=notprqn&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="notprqn" /> </p>
 <h2></h2>
 
 
