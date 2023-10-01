@@ -118,11 +118,6 @@
   </p>
 </details>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notprqn&show_icons=true&locale=en" alt="notprqn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notprqn&" alt="notprqn" /></p>
-
 <details> 
   <summary><h2>📊 Github Status e Atividades</h2></summary>
 
