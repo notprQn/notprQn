@@ -145,5 +145,5 @@
 
 </details>
 
-![Snake animation](https://github.com/notprqn/notprqn/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/notprQn/notprQn/blob/output/github-contribution-grid-snake.svg)
 
