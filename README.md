@@ -42,7 +42,7 @@
 </p>
 <br>
 <br>
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=github-readme-stats)](https://github.com/notprQn/notprQn.github.io)
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
