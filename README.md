@@ -8,9 +8,10 @@
 
 <p align="center">Sou João Pedro Resende Silva, um entusiasta da programação de 20 anos. Apaixonado por resolver problemas e criar soluções inovadoras, busco oportunidades desafiadoras para aprimorar minhas habilidades e contribuir para projetos empolgantes no mundo da tecnologia.</p>
 
-<p aling="center">
-  <a href="https://twitter.com/notprqn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="notprqn" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/jo%c3%a3o-pedro-resende-silva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jo%c3%a3o-pedro-resende-silva/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/notprQn"><img width="30px" padding-right="10px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png" /></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/joão-pedro-resende-silva/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"" alt="https://www.linkedin.com/in/joão-pedro-resende-silva/" height="32" width="32"/></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=notprqn&label=Profile%20views&color=0e75b6&style=flat" alt="notprqn" /> </p>
