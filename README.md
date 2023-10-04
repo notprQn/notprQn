@@ -44,7 +44,7 @@
 <h2></h2>
   
 <details open> 
-
+  <h3 align="left">📖 Repositorios Principais:</h3>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=notprQn.github.io&theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/notprQn/notprQn.github.io)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=EcoHome&theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/notprQn/EcoHome)
