@@ -18,7 +18,7 @@
 
 
 - 🌱 Estou estudando **Cypress, JavaScript, Python.**
-- 👨‍💻 Portifólio: notprQn.github.io
+- 👨‍💻 Portifólio: <a href = "notprQn.github.io">**notprQn.github.io**</a>
 - 📫 Para mandar mensagens: **joaopedro.resende04@gmail.com**
 <h2></h2>
 
@@ -46,7 +46,6 @@
   <summary><h2>📘 Meus Projetos Principais</h2></summary>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=notprQn.github.io&theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/notprQn/notprQn.github.io)
-    <br>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=EcoHome&theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/notprQn/EcoHome)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=projetos-Python&theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/notprQn/projetos-Python)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=byteBank&theme=react&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/notprQn/byteBank)
