@@ -3,6 +3,7 @@
     color: #d7b94c; /* Substitua essa cor pelo código da cor desejada */
   }
 </style>
+[Meu link personalizado](https://www.example.com) com estilo.
 
 
 <h1 align="center"> João Pedro Resende Silva</h1>
