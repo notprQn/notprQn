@@ -1,4 +1,4 @@
-<h1 align="center" color = "#d7b94c"> João Pedro Resende Silva</h1>
+- ![#d7b94c]<h1 align="center"> João Pedro Resende Silva</h1>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
