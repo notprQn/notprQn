@@ -46,7 +46,7 @@
 <details open> 
   <h3 align="left">📖 Repositorios Principais:</h3>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=notprQn.github.io&theme=react&bg_color=d7b94c&hide_border=true&icon_color=d7b94c&show_icons=false)](https://github.com/notprQn/notprQn.github.io)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=notprQn.github.io&theme=react&bg_color=d7b94c&hide_border=true&icon_color=f1f1f1&show_icons=false)](https://github.com/notprQn/notprQn.github.io)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=EcoHome&theme=react&bg_color=d7b94c&hide_border=true&icon_color=d7b94c&show_icons=false)](https://github.com/notprQn/EcoHome)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=projetos-Python&theme=react&bg_color=d7b94c&hide_border=true&icon_color=d7b94c&show_icons=false)](https://github.com/notprQn/projetos-Python)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=testeCypress&theme=react&bg_color=d7b94c&hide_border=true&icon_color=d7b94c&show_icons=false)](https://github.com/notprQn/testeCypress)
