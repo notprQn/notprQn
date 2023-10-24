@@ -48,7 +48,7 @@
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=notprQn.github.io&theme=react&bg_color=1f1f1f&hide_border=true&icon&color=d7b94c&show_icons=false)](https://github.com/notprQn/notprQn.github.io)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=EcoHome&theme=react&bg_color=1f1f1f&hide_border=true&icon&color=d7b94c&show_icons=false)](https://github.com/notprQn/EcoHome)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=projetos-Python&theme=react&bg_color=1f1f1f&hide_border=true&icon&color=d7b94c&show_icons=false)](https://github.com/notprQn/projetos-Python)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=projetos-Python&theme=react&bg_color=1f1f1f_hide_border=true&icon&color=d7b94c&show_icons=false)](https://github.com/notprQn/projetos-Python)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=testeCypress&theme=react&bg_color=1f1f1f&hide_border=true&icon&color=d7b94c&show_icons=false)](https://github.com/notprQn/testeCypress)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=Site-Gamer&theme=react&bg_color=1f1f1f&hide_border=true&icon&color=d7b94c&show_icons=false)](https://github.com/notprQn/Site-Gamer)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=App-Facu&theme=react&bg_color=1f1f1f&hide_border=true&icon&color=d7b94c&show_icons=false)](https://github.com/notprQn/App-Facu)
