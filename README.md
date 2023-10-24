@@ -18,7 +18,7 @@
 
 
 - 🌱 Estou estudando **Cypress, JavaScript, Python.**
-- 👨‍💻 Portifólio: <a href = "https://notprQn.github.io/">$${\color{red}**notprQn.github.io**}$$</a>
+- 👨‍💻 Portifólio: <span style = 'color: #d7b94c'><a href = "https://notprQn.github.io/">**notprQn.github.io**</a></span>
 - 📫 Para mandar mensagens: **joaopedro.resende04@gmail.com**
 <h2></h2>
 
