@@ -16,9 +16,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=notprqn&label=Profile%20views&color=d7b94c&style=for-the-badge" alt="notprqn" /> </p>
 <h2></h2>
 
-- 🌱 Estou estudando **Cypress, JavaScript, Python.**
-- 👨‍💻 Portifólio: <a href = "https://notprQn.github.io/">**notprQn.github.io**</a>
-- 📫 Para mandar mensagens: **joaopedro.resende04@gmail.com**
+<div align="center">
+	<br>
+	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
+</div>
 <h2></h2>
 
 <details open> 
