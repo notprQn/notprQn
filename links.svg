@@ -4,11 +4,11 @@
 			<style>
 				a{
          				color: #d7b94c;
-					font-family: 'Inconsolata', 'Consolas', 'monospace';
+					font-family: 'Arial';
         			}
 				h3{
 					color: white;
-					font-family: 'Inconsolata', 'Consolas', 'monospace';
+					font-family: 'Arial';
 				}
 				
 			</style>
