@@ -4,11 +4,11 @@
 			<style>
 				a{
          				color: #d7b94c;
-					font-family: 'Arial';
+					font-family: 'Mona Sans';
         			}
 				h3{
 					color: white;
-					font-family: 'Roboto';
+					font-family: 'Mona Sans';
 				}
 				
 			</style>
