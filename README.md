@@ -5,7 +5,6 @@
  <a style="color:purple;">
     <img src="https://readme-typing-svg.demolab.com/?lines=Developer%20Júnior;Experiências%20com:; Python,%20CSharp,%20HTML/CSS,%20JS;Sempre%20aprendendo%20coisas%20novas.&font=Fira%20Code&color=d7b94c&center=true&width=455&height=45&vCenter=false&pause=300&size=22" /></a>
 </p>
-<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
 <h2></h2>
 <p align="center">Sou João Pedro Resende Silva, um entusiasta da programação de 20 anos. Apaixonado por resolver problemas e criar soluções inovadoras, busco oportunidades desafiadoras para aprimorar minhas habilidades e contribuir para projetos empolgantes no mundo da tecnologia.</p>
 
@@ -46,12 +45,12 @@
 <details open> 
   <h3 align="left">📖 Repositorios Principais:</h3>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=notprQn.github.io&theme=react&bg_color=1f1f1f&hide_border=true&icon&color=d7b94c&show_icons=false)](https://github.com/notprQn/notprQn.github.io)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=EcoHome&theme=react&bg_color=1f1f1f&hide_border=true&icon&color=d7b94c&show_icons=false)](https://github.com/notprQn/EcoHome)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=projetos-Python&theme=react&bg_color=1f1f1f&hide_border=true&icon&color=d7b94c&show_icons=false)](https://github.com/notprQn/projetos-Python)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=testeCypress&theme=react&bg_color=1f1f1f&hide_border=true&icon&color=d7b94c&show_icons=false)](https://github.com/notprQn/testeCypress)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=Site-Gamer&theme=react&bg_color=1f1f1f&hide_border=true&icon&color=d7b94c&show_icons=false)](https://github.com/notprQn/Site-Gamer)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=App-Facu&theme=react&bg_color=1f1f1f&hide_border=true&icon&color=d7b94c&show_icons=false)](https://github.com/notprQn/App-Facu)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=notprQn.github.io&theme=react&bg_color=1f1f1f&hide_border=true&icon_color=d7b94c&show_icons=false)](https://github.com/notprQn/notprQn.github.io)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=EcoHome&theme=react&bg_color=1f1f1f&hide_border=true&icon_color=d7b94c&show_icons=false)](https://github.com/notprQn/EcoHome)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=projetos-Python&theme=react&bg_color=1f1f1f&hide_border=true&icon_color=d7b94c&show_icons=false)](https://github.com/notprQn/projetos-Python)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=testeCypress&theme=react&bg_color=1f1f1f&hide_border=true&icon_color=d7b94c&show_icons=false)](https://github.com/notprQn/testeCypress)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=Site-Gamer&theme=react&bg_color=1f1f1f&hide_border=true&icon_color=d7b94c&show_icons=false)](https://github.com/notprQn/Site-Gamer)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=App-Facu&theme=react&bg_color=1f1f1f&hide_border=true&icon_color=d7b94c&show_icons=false)](https://github.com/notprQn/App-Facu)
 
   <a href="https://github.com/notprQn?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/Ver%20todos%20os%20repositorios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
