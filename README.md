@@ -5,6 +5,7 @@
  <a style="color:purple;">
     <img src="https://readme-typing-svg.demolab.com/?lines=Developer%20Júnior;Experiências%20com:; Python,%20CSharp,%20HTML/CSS,%20JS;Sempre%20aprendendo%20coisas%20novas.&font=Fira%20Code&color=d7b94c&center=true&width=455&height=45&vCenter=false&pause=300&size=22" /></a>
 </p>
+<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
 <h2></h2>
 <p align="center">Sou João Pedro Resende Silva, um entusiasta da programação de 20 anos. Apaixonado por resolver problemas e criar soluções inovadoras, busco oportunidades desafiadoras para aprimorar minhas habilidades e contribuir para projetos empolgantes no mundo da tecnologia.</p>
 
