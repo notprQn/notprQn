@@ -1,0 +1,16 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				a{
+          color: #d7b94c;
+        }
+			</style>
+			<div class="container">
+				<h3>- 🌱 Estou estudando **Cypress, JavaScript, Python.**</h3>
+        <h3>- 👨‍💻 Portifólio: <span style = 'color: #d7b94c'><a href = "https://notprQn.github.io/">**notprQn.github.io**</a></span></h3>
+        <h3>- 📫 Para mandar mensagens: **joaopedro.resende04@gmail.com**</h3>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
