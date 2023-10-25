@@ -17,7 +17,9 @@
 <h2></h2>
 
 <div align="center">
-	<img src="links.svg">
+	- 🌱 Estou estudando **Cypress, JavaScript, Python.**</h3>
+        - 👨‍💻 Portifólio: <span><a href = "https://notprQn.github.io/">**notprQn.github.io**</a></span></h3>
+	- 📫 Para mandar mensagens: **joaopedro.resende04@gmail.com**</h3>
 </div>
 
 <details open> 
