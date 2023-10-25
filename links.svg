@@ -8,13 +8,13 @@
         			}
 				h3{
 					color: white;
-					font-family: 'Alliance No.1';
+					font-family: 'Roboto';
 				}
 				
 			</style>
 			<div class="container">
 				<h3>- 🌱 Estou estudando **Cypress, JavaScript, Python.**</h3>
-        			<h3>- 👨‍💻 Portifólio: <span style = 'color: #d7b94c'><a href = "https://notprQn.github.io/">**notprQn.github.io**</a></span></h3>
+        			<h3>- 👨‍💻 Portifólio: <span><a href = "https://notprQn.github.io/">notprQn.github.io</a></span></h3>
         			<h3>- 📫 Para mandar mensagens: **joaopedro.resende04@gmail.com**</h3>
 			</div>
 		</div>
