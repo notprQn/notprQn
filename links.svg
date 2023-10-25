@@ -4,6 +4,7 @@
 			<style>
 				a{
          				color: #d7b94c;
+					font-family: 'Inconsolata', 'Consolas', 'monospace';
         			}
 				h3{
 					color: white;
