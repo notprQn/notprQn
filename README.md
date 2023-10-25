@@ -19,7 +19,6 @@
 <div align="center">
 	<img src="links.svg">
 </div>
-<h2></h2>
 
 <details open> 
 <h3 align="left">👨‍💻 Linguagens e Tools:</h3>
