@@ -4,18 +4,18 @@
 			<style>
 				a{
          				color: #d7b94c;
-					font-family: 'Arial';
+					font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
         			}
-				h3{
+				p{
 					color: white;
-					font-family: 'Arial';
-					font-size: 16px;
+					font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
+					font-size: 14px;
 				}
 				
 			</style>
-			<h3>- 🌱 Estou estudando: **Cypress, JavaScript, Python.**</h3>
-        		<h3>- 👨‍💻 Portifólio: <a href = "https://notprQn.github.io/">notprQn.github.io</a></h3>
-        		<h3>- 📫 Para mandar mensagens: **joaopedro.resende04@gmail.com**</h3>
+			<p>- 🌱 Estou estudando: **Cypress, JavaScript, Python.**</p>
+        		<p>- 👨‍💻 Portifólio: <a href = "https://notprQn.github.io/">notprQn.github.io</a></p>
+        		<p>- 📫 Para mandar mensagens: **joaopedro.resende04@gmail.com**</p>
 		</div>
 	</foreignObject>
 </svg>
