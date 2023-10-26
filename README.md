@@ -15,9 +15,11 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=notprqn&label=Profile%20views&color=d7b94c&style=for-the-badge" alt="notprqn" /> </p>
 <h2></h2>
+
 <a href = "https://notprqn.github.io/" target = "_blank"> 
   <img src = "custom.svg">
 </a>
+
 <h2></h2>
 <details open> 
 <h3 align="left">👨‍💻 Linguagens e Tools:</h3>
