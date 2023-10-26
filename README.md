@@ -1,5 +1,5 @@
 <div align = "center">
-  <img src = 'links.svg'>
+  <img src = 'links.svg'  style="width: 100%;">
 </div>
 
 <p align="center">
