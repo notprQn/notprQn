@@ -1,4 +1,6 @@
-<h1 align="center"> João Pedro Resende Silva</h1>
+<div align = "center">
+  <img src = 'links.svg'>
+</div>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
