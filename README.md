@@ -16,6 +16,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=notprqn&label=Profile%20views&color=d7b94c&style=for-the-badge" alt="notprqn" /> </p>
 <h2></h2>
 
+<img src = "custom.svg">
+
 - 🌱 Estou estudando **Cypress, JavaScript, Python.**</h3>
 - 👨‍💻 Portifólio: <span><a href = "https://notprQn.github.io/">**notprQn.github.io**</a></span></h3>
 - 📫 Para mandar mensagens: **joaopedro.resende04@gmail.com**</h3>
