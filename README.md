@@ -21,8 +21,9 @@
 </a>
 
 <h2></h2>
-<details open> 
-<h3 align="left">👨‍💻 Linguagens e Tools:</h3>
+
+<h3>👨‍💻 Linguagens e Tools:</h3>
+
 <p align="left"> 
     <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
     <img align="left" width="30px" padding-right="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />     
@@ -42,7 +43,6 @@
 <br>
 <h2></h2>
   
-<details open> 
   <h3 align="left">📖 Repositorios Principais:</h3>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=notprQn.github.io&theme=react&bg_color=1F222E&hide_border=true&title_color=d7b94c&icon_color=d7b94c&show_icons=false)](https://github.com/notprQn/notprQn.github.io)
@@ -53,7 +53,6 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=App-Facu&theme=react&bg_color=1F222E&hide_border=true&title_color=d7b94c&icon_color=d7b94c&show_icons=false)](https://github.com/notprQn/App-Facu)
 
   <a href="https://github.com/notprQn?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/Ver%20todos%20os%20repositorios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
 
 <details>   
   <summary><h2>🛠️ Outros</h2></summary>
