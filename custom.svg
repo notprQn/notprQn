@@ -1,10 +1,33 @@
 <svg fill="none" width="800" height="120" xmlns="http://www.w3.org/2000/svg">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+    	<script>hljs.initHighlightingOnLoad();</script>
+	
 	<foreignObject  width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
+				strong {
+				    position: relative;
+				    z-index: -1;
+				  }
+				  
+				  strong::before {
+				    /* Highlight color */
+				    background-color: #d7b94c;
+				    z-index: -1;
+				    content: "";
+				    position: absolute;
+				    width: calc(100% + 4px);
+				    height: 60%;
+				    left: -2px;
+				    bottom: 0;
+				    z-index: -1;
+				    transform: rotate(-2deg);
+				  }
+				
 				a{
          				color: #d7b94c;
 					font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
+					text-decoration: none;
         			}
 				p{
 					color: white;
@@ -13,9 +36,9 @@
 				}
 				
 			</style>
-			<p>- 🌱 Estou estudando: **Cypress, JavaScript, Python.**</p>
-        		<p>- 👨‍💻 Portifólio: <a href = "https://notprQn.github.io/">notprQn.github.io</a></p>
-        		<p>- 📫 Para mandar mensagens: joaopedro.resende04@gmail.com</p>
+			<p>- 🌱 <strong>Estou estudando:</strong> Cypress, JavaScript, Python.</p>
+        		<p>- 👨‍💻 <strong>Portifólio:</strong> <a href = "https://notprQn.github.io/">notprQn.github.io</a></p>
+        		<p>- 📫 <strong>Para mandar mensagens:</strong> joaopedro.resende04@gmail.com</p>
 		</div>
 	</foreignObject>
 </svg>
