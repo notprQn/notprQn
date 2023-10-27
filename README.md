@@ -9,7 +9,7 @@
 </p>
 <h2></h2>
 <p align="center">
-  <a href="https://twitter.com/notprQn"><img width="40px" padding-right="10px" alt="Twitter" title="Twitter" src="https://i.imgur.com/l07zWi3.png" /></a>
+  <a href="https://twitter.com/notprQn"><img width="35px" height = "35px" top = "10px" alt="Twitter" title="Twitter" src="https://i.imgur.com/l07zWi3.png" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/joão-pedro-resende-silva/" target="blank"><img src="https://i.imgur.com/XkIMcPz.png"" alt="https://www.linkedin.com/in/joão-pedro-resende-silva/" height="40" width="40"/></a>
 </p>
