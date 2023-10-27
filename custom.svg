@@ -27,7 +27,6 @@
 				a{
          				color: #d7b94c;
 					font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
-					text-decoration: none;
         			}
 				p{
 					color: white;
