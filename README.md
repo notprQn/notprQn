@@ -49,7 +49,7 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=EcoHome&theme=react&bg_color=1F222E&hide_border=true&title_color=d7b94c&icon_color=d7b94c&show_icons=false)](https://github.com/notprQn/EcoHome)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=projetos-Python&theme=react&bg_color=1F222E&hide_border=true&title_color=d7b94c&icon_color=d7b94c&show_icons=false)](https://github.com/notprQn/projetos-Python)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=testeCypress&theme=react&bg_color=1F222E&hide_border=true&title_color=d7b94c&icon_color=d7b94c&show_icons=false)](https://github.com/notprQn/testeCypress)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=Site-Gamer&theme=react&bg_color=1F222E&hide_border=true&title_color=d7b94c&icon_color=d7b94c&show_icons=false)](https://github.com/notprQn/Site-Gamer)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=rssagg&theme=react&bg_color=1F222E&hide_border=true&title_color=d7b94c&icon_color=d7b94c&show_icons=false)](https://github.com/notprQn/rssagg)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=App-Facu&theme=react&bg_color=1F222E&hide_border=true&title_color=d7b94c&icon_color=d7b94c&show_icons=false)](https://github.com/notprQn/App-Facu)
 
   <a href="https://github.com/notprQn?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/Ver%20todos%20os%20repositorios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
