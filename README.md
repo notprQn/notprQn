@@ -46,7 +46,7 @@
   <h3 align="left">📖 Repositorios Principais:</h3>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=notprQn.github.io&theme=react&bg_color=1F222E&hide_border=true&title_color=d7b94c&icon_color=d7b94c&show_icons=false)](https://github.com/notprQn/notprQn.github.io)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=EcoHome&theme=react&bg_color=1F222E&hide_border=true&title_color=d7b94c&icon_color=d7b94c&show_icons=false)](https://github.com/notprQn/EcoHome)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=codecrafters-shell-go&theme=react&bg_color=1F222E&hide_border=true&title_color=d7b94c&icon_color=d7b94c&show_icons=false)](https://github.com/notprQn/codecrafters-shell-go)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=url-shortner&theme=react&bg_color=1F222E&hide_border=true&title_color=d7b94c&icon_color=d7b94c&show_icons=false)](https://github.com/notprQn/url-shortner)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=notprQn-codecrafters-http-server-go&theme=react&bg_color=1F222E&hide_border=true&title_color=d7b94c&icon_color=d7b94c&show_icons=false)](https://github.com/notprQn/notprQn-codecrafters-http-server-go)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=notprqn&repo=rssagg&theme=react&bg_color=1F222E&hide_border=true&title_color=d7b94c&icon_color=d7b94c&show_icons=false)](https://github.com/notprQn/rssagg)
